@@ -1,0 +1,43 @@
+# Core Framework
+langchain>=0.1.0
+langchain-community>=0.0.13
+langchain-core>=0.1.10
+
+# Model Runner
+ollama>=0.1.6
+
+# Vector Database
+chromadb>=0.4.22
+
+# Data Loaders
+pypdf>=4.0.1
+python-docx>=1.1.0
+librosa>=0.10.2
+Pillow>=10.2.0
+opencv-python>=4.9.0.80
+pytesseract>=0.3.10
+
+# Audio Processing
+openai-whisper>=20231117
+
+# Embeddings
+sentence-transformers>=2.3.1
+transformers>=4.36.2
+torch>=2.2.0
+torchvision>=0.17.0
+
+# Note: torch 2.2.0+ required for Python 3.12 compatibility
+
+# UI
+streamlit>=1.29.0
+gradio>=4.8.0
+
+# Utilities
+numpy>=1.26.2
+pydantic>=2.5.3
+python-dotenv>=1.0.0
+tqdm>=4.66.1
+
+# File handling
+aiofiles>=23.2.1
+
