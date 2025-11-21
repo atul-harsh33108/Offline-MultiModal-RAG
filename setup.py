@@ -7,7 +7,7 @@ setup(
     name="multimodal-rag",
     version="1.0.0",
     description="Multimodal Retrieval-Augmented Generation System",
-    author="Your Name",
+    author="Atul Harsh",
     packages=find_packages(),
     install_requires=[
         "langchain>=0.1.0",
